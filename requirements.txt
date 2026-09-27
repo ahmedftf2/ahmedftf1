@@ -1,0 +1,6 @@
+python-telegram-bot
+MetaTrader5
+requests
+pytz
+urllib3
+certifi
