@@ -1,5 +1,0 @@
-python-telegram-bot
-requests
-pytz
-urllib3
-certifi
